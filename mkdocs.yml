@@ -1,0 +1,8 @@
+site_name: Reading
+
+theme:
+  name: material
+
+nav:
+  - Introduction: 'index.md'
+  - A Liberated Mind (Steven C. Hayes): 'a_liberated_mind.md'
