@@ -6,6 +6,16 @@ If you have everything under control, you’re not moving fast enough.
 
 ## MINDSET
 
+KEY POINTS:
+
+- Decision made today defined where I will be in the future.
+  - Define games that are worth playing base of what I want, my values, strength and who I want to be.
+- Keep mild control over goals, if everything is under control I am not moving fast enough.
+- Sacrify certain for uncertain to get closer to my values, the more I do it will become easier.
+  - Face what it is so that it becomes rality to deal with
+  - Are we willing to face reality with work or are we pretending?
+  - Limitless self control is part of the equation for success, Focus on delayed and uncertain decisions over emotional and instant.
+
 ### __WHY__
 
 No matter what you’re facing in life, you have two choices: you can put in the work or get put in your place.
@@ -43,6 +53,16 @@ How much pain are you willing to take? What are you willing to sacrifice?
 
 ## SETTING GOALS
 
+KEY POINTS:
+
+- Passion is something you create not something you find.
+- Clarify exactly what we want and what are we willing to give up.
+  - define what when where I am going to do the task related to my project/goal.
+  - Track progress on how far you come or how far is left (focus on the smaller) - reward.
+  - Longer span targets are more propense to fail.
+- Do not wait for perfect timeing, be insane and desperate around your goals.
+- No talking about goal until you can prove objective results.
+
 ### __PERFECT TIMING__
 
 “Sometimes death only comes from a lack of energy.”
@@ -55,7 +75,7 @@ Hagakure: Common sense will not accomplish great things. Simply become insane an
 
 ### __PURPOSE AND GOALS__
 
-### __TODO: AMBITIOUS GOALS__
+### AMBITIOUS GOALS__
 
 write down your goals, make a plan, make sure the first couple of milestones are easy, anticipate barriers, track your progress, either in terms of how far you’ve come or how much you have left (focus on whichever is smaller), and reward yourself as you make headway.
 
@@ -91,12 +111,27 @@ You can’t search out passion; you can only create it.
 
 ## DOING THE WORK
 
+KEY POINTS:
+
+- Keep all main goals in motion to avoid doubts
+- Our primary enemy to puting the work is resistence.
+- Focus on being the harder to destroy not the best
+- If you don’t like something, do something to change it. Don’t complain; just work harder.
+- Happiness tredmill: happiness is persive relatively stable and has a return to the mean behaviour.
+  - Good and bad things that happen to us modify our happines for short period of time.
+  - If big gains on a resource ocurre apply life changes progresively.
+  - If bad things happen is better to do cuts all at once to not prolong the suffering.
+  - Focus on minimalism and intentional living.
+- Be realistic with a mild bias towards optimism.
+- we construct our worldview based on what we pay attention to, not what is.
+- Be skepticism and dubiousness when the cost of failure if high, otherwise be optimistic
+  - Perform premortem when the cost of failure is high, review and reasses throughout the process
+
 ### __RESISTENCE__
 
+How far are you willing to go?
 
-? How far are you willing to go?
-
-By staying in motion, the roots of doubt and despair can’t take hold and ensnare us. By doing things, we can’t be stopped by thinking things.
+By staying in motion, the roots of doubt and despair can’t take hold and ensuare us. By doing things, we can’t be stopped by thinking things.
 
 “Tell me, I’ll forget; show me, I’ll remember; involve me, I’ll understand.”
 
@@ -107,6 +142,7 @@ If men will not act for themselves, what will they do when the benefit of their 
 you don’t have to be the best to win. You just have to be harder to destroy.
 
 ### __EXCUSES VS PROGRESS__
+
 
 excuses are tempting. They promise freedom from pain, embarrassment, and failure.
 
@@ -147,7 +183,7 @@ The fundamental guideline for not deploying optimism is to ask what the cost of 
 
 “ premortem is the hypothetical opposite of a postmortem,”
 
-Start by assuming that the undertaking has failed spectacularly. Then, over the next few minutes, write down every reason you can think of for the failure, and pay special attention to the kinds of things you might not want to consider as potential problems due to ego or, if you’re in a group, impoliteness. Then, revisit your plans in light of the pitfalls you’ve uncovered, and generate ideas as to how you can minimize their likelihood of occurring or avoid them altogether. Klein also recommends that you periodically review your premortem list as you make progress on an endeavor and circumstances change, reflecting on new and different ways to fail and their antidotes. I once went through this exercise with a woman named Maria who wanted to follow my Thinner Leaner Stronger
+Start by assuming that the undertaking has failed spectacularly. Then, over the next few minutes, write down every reason you can think of for the failure, and pay special attention to the kinds of things you might not want to consider as potential problems due to ego or, if you’re in a group, impoliteness. Then, revisit your plans in light of the pitfalls you’ve uncovered, and generate ideas as to how you can minimize their likelihood of occurring or avoid them altogether. Periodically review your premortem list as you make progress on an endeavor and circumstances change, reflecting on new and different ways to fail and their antidotes.
 
 ## Recommended reading
 

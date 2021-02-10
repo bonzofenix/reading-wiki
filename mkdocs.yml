@@ -6,6 +6,8 @@ theme:
 nav:
   - Introduction: 'index.md'
   - 4 hour Week Chef (Tim Ferris): '4_hour_week_chef.md'
-  - A Liberated Mind (Steven C. Hayes): 'a_liberated_mind.md'
-  - Focus (Leo Baubauta): 'focus.md'
-  - The Little Book of Common Sense Investing (Little Books. Big Profits) (Bogle, John C.): 'the_little_book_of_common_sense_investing.md'
+  - A Liberated Mind: 'a_liberated_mind.md'
+  - Focus: 'focus.md'
+  - The Little Book of Common Sense Investing: 'the_little_book_of_common_sense_investing.md'
+  - The Little Black Book of Workout Motivation: 'the_little_black_book_of_workout_motivation.md'
+  - The Power of Now: 'the_power_of_now.md'
