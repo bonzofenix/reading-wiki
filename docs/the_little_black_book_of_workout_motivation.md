@@ -234,7 +234,7 @@ It fills me with joy and meaningful connections now and probably for the rest of
 
 __Trading:__
 
-It gives me an edge to help my family and myself to be financially free from the need of working. I can leave to progress stedy and find good habits to reward in my mind.
+It gives me an edge to help my family and myself to be financially free from the need of working. It is emotionally and mentally challening and it sets a perfect enviroment for personal growth in this 2 aspects.
 
 ### 7 days challenge
 
